@@ -24,12 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-![]()
+![](/blog-preview-card-main/assets/images/Blog%20card.png)
 
 ### Links
 
 - Solution URL: [Blog prev. solution]()
-- Live Site URL: [Blog prev. live]()
+- Live Site URL: [Blog prev. live](https://juantwofour.github.io/Blog-preview-card/)
 
 ## My process
 
@@ -37,15 +37,15 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
+- Grid
 
 ### What I learned
 
-- Will add when finished
+- Learned more about using grid and how to utilize it to my advantage when building something simple like this blog card card. Also learned not to default to a flexbox (what I was doing at the start) although flexbox is great when used correctly, for this project it felt simpler to use a display of grid instead.
 
 ### Useful resources
 
-- [W3 schools css tutorial](https://www.w3schools.com/css/default.asp) - This helped me with my css styling. Explains and gives you examples on what you are creating using css.
+- [W3 schools css tutorial](https://www.w3schools.com/css/default.asp) - Probably one of the best ways to learn how to do cool things with CSS. Learned mostly more about grid.
 
 ## Author
 
