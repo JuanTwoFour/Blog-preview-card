@@ -14,8 +14,11 @@ body {
   font-family: "figtree", sons-serif;
 }
 
-main {
+.card {
+  display: flex;
+  flex-direction: column;
   background-color: hsl(0, 0%, 100%);
+  border: 1px solid black;
   border-radius: 15px;
   box-shadow: 15px 15px 0px rgb(0, 0, 0);
   overflow: hidden;
@@ -28,15 +31,32 @@ main {
 span {
   background-color: rgb(244, 208, 78);
   font-weight: 700;
-  font-size: 14px;
+  font-size: 15px;
   padding: 4px;
   border-radius: 5px;
+  margin-top: 19px;
+  max-width: min-content;
+}
+
+h2 {
+  margin-top: 12px;
+  font-weight: 400;
+  font-size: 19px;
+}
+
+h1 {
+  margin-top: 19px;
+}
+
+p {
+  margin-top: 15px;
 }
 
 .author {
   display: flex;
   align-items: center;
   padding: 15px;
+  margin-top: 15px;
 }
 
 .author img {
